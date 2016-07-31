@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Comedy</string>
+	<string>Action</string>
+	<string>Thriller</string>
+	<string>Documentary</string>
+	<string>Animated</string>
+	<string>Drama</string>
+	<string>Classic</string>
+	<string>Western</string>
+</array>
+</plist>
